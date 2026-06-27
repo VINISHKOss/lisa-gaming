@@ -1,0 +1,238 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fox-black: #0a0a0a;
+  --color-fox-dark: #141414;
+  --color-fox-card: #1a1a1a;
+  --color-fox-border: #2a2a2a;
+  --color-fox-yellow: #f5c518;
+  --color-fox-yellow-hover: #ffd84d;
+  --color-fox-muted: #9ca3af;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: clip;
+    max-width: 100%;
+    overscroll-behavior-x: none;
+  }
+
+  body {
+    @apply bg-fox-black text-white antialiased;
+    font-family: var(--font-sans);
+    margin: 0;
+    min-height: 100dvh;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
+    overscroll-behavior-x: none;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  img,
+  video,
+  iframe {
+    max-width: 100%;
+  }
+
+  #root {
+    min-height: 100dvh;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: clip;
+  }
+
+  :root {
+    --page-gutter: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    :root {
+      --page-gutter: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    :root {
+      --page-gutter: 2rem;
+    }
+  }
+}
+
+@layer utilities {
+  .page-gutter {
+    padding-inline: var(--page-gutter);
+  }
+
+  .mobile-menu-backdrop-enter {
+    animation: mobile-menu-backdrop-enter 0.28s ease-out forwards;
+  }
+
+  .mobile-menu-backdrop-exit {
+    animation: mobile-menu-backdrop-exit 0.28s ease-in forwards;
+  }
+
+  .mobile-menu-panel-enter {
+    animation: mobile-menu-panel-enter 0.32s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  }
+
+  .mobile-menu-panel-exit {
+    animation: mobile-menu-panel-exit 0.28s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  }
+
+}
+
+@keyframes mobile-menu-backdrop-enter {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes mobile-menu-panel-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-1.25rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes mobile-menu-backdrop-exit {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes mobile-menu-panel-exit {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(-1rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .mobile-menu-backdrop-enter,
+  .mobile-menu-backdrop-exit,
+  .mobile-menu-panel-enter,
+  .mobile-menu-panel-exit {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+@keyframes fox-spin-3d {
+  0% {
+    transform: rotateY(-38deg) rotateX(18deg) translateZ(0);
+  }
+
+  25% {
+    transform: rotateY(-10deg) rotateX(12deg) translateZ(10px);
+  }
+
+  50% {
+    transform: rotateY(38deg) rotateX(16deg) translateZ(0);
+  }
+
+  75% {
+    transform: rotateY(10deg) rotateX(12deg) translateZ(10px);
+  }
+
+  100% {
+    transform: rotateY(-38deg) rotateX(18deg) translateZ(0);
+  }
+}
+
+@keyframes fox-shadow-pulse {
+  0%,
+  100% {
+    opacity: 0.55;
+    transform: translateX(-50%) scaleX(0.9);
+  }
+
+  50% {
+    opacity: 0.85;
+    transform: translateX(-50%) scaleX(1.06);
+  }
+}
+
+@keyframes fox-glow-pulse {
+  0%,
+  100% {
+    opacity: 0.72;
+    transform: scale(0.96);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.04);
+  }
+}
+
+@keyframes fox-light-pulse {
+  0%,
+  100% {
+    opacity: 0.78;
+    transform: scale(0.94);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.06);
+  }
+}
+
+@keyframes fox-metallic-glint {
+  0%,
+  100% {
+    opacity: 0;
+    transform: translateX(-38%) translateY(-28%) rotate(18deg) scale(1.15);
+  }
+
+  22% {
+    opacity: 0.7;
+    transform: translateX(-8%) translateY(-6%) rotate(14deg) scale(1.22);
+  }
+
+  48% {
+    opacity: 1;
+    transform: translateX(28%) translateY(12%) rotate(8deg) scale(1.28);
+  }
+
+  72% {
+    opacity: 0.5;
+    transform: translateX(8%) translateY(2%) rotate(12deg) scale(1.18);
+  }
+}

@@ -1,0 +1,4922 @@
+[
+  {
+    "browser": "webkit-safari",
+    "pages": [
+      {
+        "viewport": "320-narrow",
+        "page": "home",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          },
+          {
+            "severity": "info",
+            "type": "small-text",
+            "message": "Много текста < 12px (14 элементов)"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-home.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "catalog",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-catalog.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "cart",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-cart.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "about",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-about.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "contacts",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 24,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (151×19): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (61×19): @lisapc"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (148×19): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (211×38): Открыть в Яндекс Картах"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-contacts.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "login",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (146×20): Зарегистрироваться"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-login.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "product-detail",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-product-detail.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "search",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-search.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "catalog-pc-builds",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-catalog-pc.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "register",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×20): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-320-narrow-register.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "home",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          },
+          {
+            "severity": "info",
+            "type": "small-text",
+            "message": "Много текста < 12px (14 элементов)"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-home.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "catalog",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-catalog.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "cart",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-cart.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "about",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-about.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "contacts",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 24,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (151×19): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (61×19): @lisapc"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (148×19): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (211×38): Открыть в Яндекс Картах"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-contacts.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "login",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (146×20): Зарегистрироваться"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-login.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "product-detail",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-product-detail.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "search",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-search.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "catalog-pc-builds",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-catalog-pc.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "register",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×20): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (56×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (81×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (39×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (139×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (129×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (133×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (216×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (164×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "webkit-safari-iphone-17-register.png"
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 412,
+      "info": 2
+    }
+  },
+  {
+    "browser": "chromium-mobile",
+    "pages": [
+      {
+        "viewport": "320-narrow",
+        "page": "home",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          },
+          {
+            "severity": "info",
+            "type": "small-text",
+            "message": "Много текста < 12px (14 элементов)"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-home.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "catalog",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-catalog.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "cart",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-cart.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "about",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-about.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "contacts",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 24,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (150×18): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×18): @lisapc"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (142×18): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (210×38): Открыть в Яндекс Картах"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-contacts.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "login",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (146×20): Зарегистрироваться"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-login.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "product-detail",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-product-detail.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "search",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-search.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "catalog-pc-builds",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-catalog-pc.png"
+      },
+      {
+        "viewport": "320-narrow",
+        "page": "register",
+        "docWidth": 320,
+        "scrollWidth": 320,
+        "bodyScrollWidth": 320,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×20): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (288×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-320-narrow-register.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "home",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          },
+          {
+            "severity": "info",
+            "type": "small-text",
+            "message": "Много текста < 12px (14 элементов)"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-home.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "catalog",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-catalog.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "cart",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-cart.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "about",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-about.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "contacts",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 24,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (150×18): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (58×18): @lisapc"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (142×18): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (210×38): Открыть в Яндекс Картах"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-contacts.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "login",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (146×20): Зарегистрироваться"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-login.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "product-detail",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": true,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-product-detail.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "search",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-search.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "catalog-pc-builds",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 20,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-catalog-pc.png"
+      },
+      {
+        "viewport": "iphone-17",
+        "page": "register",
+        "docWidth": 393,
+        "scrollWidth": 393,
+        "bodyScrollWidth": 393,
+        "docOverflow": false,
+        "bodyOverflow": false,
+        "mainOverflow": false,
+        "issueCount": 21,
+        "issues": [
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Lisa GamingИгровая техника"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Каталог"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Корзина"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): О Нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (36×36): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (43×20): Войти"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (53×20): Главная"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Акции"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (57×17): Новости"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (80×20): ПК на заказ"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (38×20): О нас"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (64×20): Контакты"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (42×17): Выкуп"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): +7 (926) 503-47-10"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (361×20): info@lisagaming.ru"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (137×24): Продвижение сайта"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (125×40): Доставка и оплата"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (131×40): Гарантия и возврат"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (214×40): Политика конфиденциальности"
+          },
+          {
+            "severity": "warn",
+            "type": "small-tap-target",
+            "message": "Маленькая зона нажатия (161×40): Условия использования"
+          }
+        ],
+        "meta": {
+          "title": "Lisa Gaming — Игровые ноутбуки",
+          "hasH1": false,
+          "hasSearch": true
+        },
+        "screenshot": "chromium-mobile-iphone-17-register.png"
+      }
+    ],
+    "summary": {
+      "errors": 0,
+      "warnings": 412,
+      "info": 2
+    }
+  }
+]

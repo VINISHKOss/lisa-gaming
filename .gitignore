@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+*.local
+node.tar.gz
+node-v22.16.0-darwin-arm64
