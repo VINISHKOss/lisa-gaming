@@ -192,12 +192,12 @@
   0%,
   100% {
     opacity: 0.72;
-    transform: scale(0.96);
+    transform: translate(-50%, -50%) scale(0.96);
   }
 
   50% {
     opacity: 1;
-    transform: scale(1.04);
+    transform: translate(-50%, -50%) scale(1.04);
   }
 }
 
@@ -238,6 +238,17 @@
 }
 
 @layer utilities {
+  .fox-logo-mask {
+    mask-image: url('/fox-logo-gradient.png');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-image: url('/fox-logo-gradient.png');
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+  }
+
   .animate-fox-glow-pulse {
     animation-name: fox-glow-pulse;
     animation-duration: 4s;
@@ -260,10 +271,17 @@
   }
 
   .animate-fox-spin-3d {
+    transform-style: preserve-3d;
+    transform-origin: center center;
     animation-name: fox-spin-3d;
     animation-duration: 10.5s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
+  }
+
+  .fox-logo-perspective {
+    perspective: 520px;
+    perspective-origin: center center;
   }
 
   .animate-fox-metallic-glint {
