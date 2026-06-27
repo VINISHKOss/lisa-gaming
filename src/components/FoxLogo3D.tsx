@@ -29,18 +29,18 @@ export function FoxLogo3D({ className = '' }: FoxLogo3DProps) {
       className={`relative mx-auto aspect-square w-[clamp(7rem,24vw,10rem)] sm:w-36 lg:w-[clamp(9rem,16vw,13rem)] ${className}`}
     >
       <div
-        className="pointer-events-none absolute -left-[18%] -top-[22%] z-0 h-[58%] w-[58%] rounded-full bg-[radial-gradient(circle,rgba(255,250,230,1)_0%,rgba(255,198,90,0.55)_38%,transparent_72%)] blur-lg [animation:fox-light-pulse_10.5s_ease-in-out_infinite]"
+        className="pointer-events-none absolute -left-[18%] -top-[22%] z-0 h-[58%] w-[58%] rounded-full bg-[radial-gradient(circle,rgba(255,250,230,1)_0%,rgba(255,198,90,0.55)_38%,transparent_72%)] blur-lg animate-fox-light-pulse"
         aria-hidden
       />
 
       <div
-        className="pointer-events-none absolute left-1/2 top-[94%] h-[14%] w-[72%] -translate-x-1/2 rounded-[50%] bg-black/75 blur-2xl [animation:fox-shadow-pulse_10.5s_ease-in-out_infinite]"
+        className="pointer-events-none absolute left-1/2 top-[94%] h-[14%] w-[72%] -translate-x-1/2 rounded-[50%] bg-black/75 blur-2xl animate-fox-shadow-pulse"
         aria-hidden
       />
 
       <div className="relative z-10 h-full w-full overflow-hidden [perspective:520px]">
         <div
-          className={`relative h-full w-full drop-shadow-[0_20px_44px_rgba(0,0,0,0.92)] drop-shadow-[0_8px_20px_rgba(232,136,48,0.5)] [transform-style:preserve-3d] [animation:fox-spin-3d_10.5s_ease-in-out_infinite] will-change-transform ${LOGO_MASK_CLASS}`}
+          className={`relative h-full w-full drop-shadow-[0_20px_44px_rgba(0,0,0,0.92)] drop-shadow-[0_8px_20px_rgba(232,136,48,0.5)] [transform-style:preserve-3d] animate-fox-spin-3d will-change-transform ${LOGO_MASK_CLASS}`}
         >
           <div
             className="pointer-events-none absolute inset-0 bg-gradient-to-br from-[#120604] via-[#050201] to-black"
@@ -100,7 +100,7 @@ export function FoxLogo3D({ className = '' }: FoxLogo3DProps) {
             />
 
             <div className="pointer-events-none absolute inset-0 z-30 overflow-hidden" aria-hidden>
-              <div className="absolute -inset-[40%] bg-[linear-gradient(115deg,transparent_38%,rgba(255,255,255,0.95)_50%,transparent_62%)] opacity-0 mix-blend-screen [animation:fox-metallic-glint_10.5s_ease-in-out_infinite]" />
+              <div className="absolute -inset-[40%] bg-[linear-gradient(115deg,transparent_38%,rgba(255,255,255,0.95)_50%,transparent_62%)] opacity-0 mix-blend-screen animate-fox-metallic-glint" />
             </div>
 
             <div

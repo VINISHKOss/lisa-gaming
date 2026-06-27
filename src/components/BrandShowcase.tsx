@@ -57,7 +57,7 @@ function LogoPanel() {
         aria-hidden
       />
       <div
-        className="pointer-events-none absolute left-1/2 top-1/2 h-[clamp(10rem,34vw,15rem)] w-[clamp(10rem,34vw,15rem)] -translate-x-1/2 -translate-y-1/2 rounded-full bg-[radial-gradient(circle,rgba(248,206,70,0.4)_0%,transparent_72%)] [animation:fox-glow-pulse_4s_ease-in-out_infinite] lg:h-[clamp(12rem,36vw,18rem)] lg:w-[clamp(12rem,36vw,18rem)]"
+        className="pointer-events-none absolute left-1/2 top-1/2 h-[clamp(10rem,34vw,15rem)] w-[clamp(10rem,34vw,15rem)] -translate-x-1/2 -translate-y-1/2 rounded-full bg-[radial-gradient(circle,rgba(248,206,70,0.4)_0%,transparent_72%)] animate-fox-glow-pulse lg:h-[clamp(12rem,36vw,18rem)] lg:w-[clamp(12rem,36vw,18rem)]"
         aria-hidden
       />
 

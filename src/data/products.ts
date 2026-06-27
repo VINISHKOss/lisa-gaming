@@ -42,13 +42,12 @@ export const laptops: LaptopProduct[] = [
     category: 'laptop',
     name: 'MSI Raider GE78',
     price: 249990,
-    image:
-      'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop',
+    image: '/laptops-choice.png',
     images: [
-      'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1525547719578-a2d4b9a8f2a9?w=800&h=600&fit=crop',
+      '/laptops-choice.png',
+      '/asus-rog-strix-g16-1.jpg',
+      '/lenovo-legion-pro-7-1.jpg',
+      '/asus-rog-strix-g16-2.jpg',
     ],
     description:
       'MSI Raider GE78 — абсолютный титан игрового мира. 17-дюймовый экран, RTX 4090 и 64 ГБ оперативной памяти — конфигурация, от которой захватывает дух. Mystic Light превращает корпус в световое шоу, а мощнейший процессор Intel Core i9 без труда тянет 4K-рендер, VR и самые требовательные AAA-тайтлы на максималках. Если вы ищете ноутбук без потолка по производительности — Raider GE78 отвечает на этот вызов.',
@@ -65,13 +64,12 @@ export const laptops: LaptopProduct[] = [
     category: 'laptop',
     name: 'Acer Predator Helios 16',
     price: 174990,
-    image:
-      'https://images.unsplash.com/photo-1525547719578-a2d4b9a8f2a9?w=800&h=600&fit=crop',
+    image: '/laptops-choice.png',
     images: [
-      'https://images.unsplash.com/photo-1525547719578-a2d4b9a8f2a9?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop',
+      '/laptops-choice.png',
+      '/lenovo-legion-pro-7-2.jpg',
+      '/asus-rog-strix-g16-1.jpg',
+      '/lenovo-legion-pro-7-1.jpg',
     ],
     description:
       'Acer Predator Helios 16 — умный выбор для геймера с чувством меры. За доступную цену вы получаете сбалансированную связку Core i7 и RTX 4060, яркий WQXGA-экран 165 Гц и фирменный хищный стиль Predator. Он уверенно тянет современные игры, не перегревается в марафонских сессиях и оставляет запас для учёбы, монтажа и работы — идеальный первый или апгрейдный игровой ноутбук.',
@@ -88,13 +86,12 @@ export const laptops: LaptopProduct[] = [
     category: 'laptop',
     name: 'HP Omen 16',
     price: 159990,
-    image:
-      'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop',
+    image: '/laptops-choice.png',
     images: [
-      'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1525547719578-a2d4b9a8f2a9?w=800&h=600&fit=crop',
+      '/laptops-choice.png',
+      '/asus-rog-strix-g16-2.jpg',
+      '/lenovo-legion-pro-7-2.jpg',
+      '/asus-rog-strix-g16-1.jpg',
     ],
     description:
       'HP Omen 16 — универсальный боец на каждый день. Строгий дизайн без лишнего пафоса, энергоэффективный Ryzen 7 и RTX 4070 дают отличный баланс автономности и мощности. Ноутбук одинаково уместен в общежитии, дома и на стриме: тихая клавиатура, чёткий 165-Гц экран и продуманное охлаждение Omen Tempest делают его надёжным спутником и геймера, и студента.',
@@ -111,13 +108,12 @@ export const laptops: LaptopProduct[] = [
     category: 'laptop',
     name: 'Razer Blade 16',
     price: 279990,
-    image:
-      'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop',
+    image: '/laptops-choice.png',
     images: [
-      'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=600&fit=crop',
+      '/laptops-choice.png',
+      '/lenovo-legion-pro-7-1.jpg',
+      '/asus-rog-strix-g16-1.jpg',
+      '/lenovo-legion-pro-7-2.jpg',
     ],
     description:
       'Razer Blade 16 — премиальный шедевр в мире игровых ноутбуков. Цельный алюминиевый корпус, безупречная сборка и легендарная клавиатура Chroma создают ощущение роскошного инструмента. UHD+-экран 240 Гц сочетает невероятную детализацию и скорость, а RTX 4080 с i9 справляются с любой задачей — от Cyberpunk на ультрах до профессионального монтажа. Blade 16 — для тех, кто ценит стиль не меньше, чем сырую мощь.',

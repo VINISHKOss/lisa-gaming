@@ -236,3 +236,25 @@
     transform: translateX(8%) translateY(2%) rotate(12deg) scale(1.18);
   }
 }
+
+@layer utilities {
+  .animate-fox-glow-pulse {
+    animation: fox-glow-pulse 4s ease-in-out infinite;
+  }
+
+  .animate-fox-light-pulse {
+    animation: fox-light-pulse 10.5s ease-in-out infinite;
+  }
+
+  .animate-fox-shadow-pulse {
+    animation: fox-shadow-pulse 10.5s ease-in-out infinite;
+  }
+
+  .animate-fox-spin-3d {
+    animation: fox-spin-3d 10.5s ease-in-out infinite;
+  }
+
+  .animate-fox-metallic-glint {
+    animation: fox-metallic-glint 10.5s ease-in-out infinite;
+  }
+}

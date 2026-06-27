@@ -1,17 +1,15 @@
 import type { PcBuildProduct } from '../types/product'
 
+const pcBuildGallery = ['/pc-builds-choice.png', '/fox-head.png'] as const
+
 export const pcBuilds: PcBuildProduct[] = [
   {
     id: 'fox-starter',
     category: 'pc-build',
     name: 'Fox Starter',
     price: 89990,
-    image:
-      'https://images.unsplash.com/photo-1593640408182-3c5c2289ad3d?w=800&h=600&fit=crop',
-    images: [
-      'https://images.unsplash.com/photo-1593640408182-3c5c2289ad3d?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1587202372775-e229f172b9c9?w=800&h=600&fit=crop',
-    ],
+    image: '/pc-builds-choice.png',
+    images: [...pcBuildGallery],
     video: '/fox-starter.mp4',
     description:
       'Fox Starter — идеальная точка входа в мир ПК-гейминга. Сбалансированная связка Ryzen 5 и RTX 4060 уверенно тянет современные AAA-тайтлы в Full HD, а быстрый NVMe-накопитель и 16 ГБ DDR5 не тормозят загрузки и мультизадачность. Компактная сборка с продуманным воздушным охлаждением тихо работает в длинных сессиях — отличный выбор для первого игрового ПК или апгрейда со старой системы.',
@@ -30,12 +28,8 @@ export const pcBuilds: PcBuildProduct[] = [
     category: 'pc-build',
     name: 'Fox Gamer',
     price: 134990,
-    image:
-      'https://images.unsplash.com/photo-1587202372775-e229f172b9c9?w=800&h=600&fit=crop',
-    images: [
-      'https://images.unsplash.com/photo-1587202372775-e229f172b9c9?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1625948515291-69613efd3c82?w=800&h=600&fit=crop',
-    ],
+    image: '/pc-builds-choice.png',
+    images: [...pcBuildGallery],
     video: '/fox-gamer.mp4',
     description:
       'Fox Gamer создан для тех, кто хочет больше кадров и выше настройки без компромиссов. Core i5-14600K и RTX 4070 Super дают запас по производительности в QHD, а СЖО Arctic Liquid Freezer II держит температуры под контролем даже в жарких рейдах. 32 ГБ оперативной памяти и золотой блок питания 750 Вт делают эту сборку надёжной базой для игр, стримов и монтажа.',
@@ -54,12 +48,8 @@ export const pcBuilds: PcBuildProduct[] = [
     category: 'pc-build',
     name: 'Fox Pro',
     price: 189990,
-    image:
-      'https://images.unsplash.com/photo-1625948515291-69613efd3c82?w=800&h=600&fit=crop',
-    images: [
-      'https://images.unsplash.com/photo-1625948515291-69613efd3c82?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1600861194947-883debc969d4?w=800&h=600&fit=crop',
-    ],
+    image: '/pc-builds-choice.png',
+    images: [...pcBuildGallery],
     video: '/fox-pro.mp4',
     description:
       'Fox Pro — мечта соревновательного геймера и требовательного стримера. Легендарный Ryzen 7 7800X3D в паре с RTX 4070 Ti Super выдаёт топовый FPS в онлайн-шутерах и стратегиях, а премиальная платформа X670 и СЖО NZXT Kraken обеспечивают стабильность под нагрузкой. Два терабайта быстрого SSD — с запасом для библиотеки игр, записей и рабочих проектов.',
@@ -78,12 +68,8 @@ export const pcBuilds: PcBuildProduct[] = [
     category: 'pc-build',
     name: 'Fox Elite',
     price: 289990,
-    image:
-      'https://images.unsplash.com/photo-1600861194947-883debc969d4?w=800&h=600&fit=crop',
-    images: [
-      'https://images.unsplash.com/photo-1600861194947-883debc969d4?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1547084265-7f6bfe5f30a5?w=800&h=600&fit=crop',
-    ],
+    image: '/pc-builds-choice.png',
+    images: [...pcBuildGallery],
     video: '/fox-elite.mp4',
     description:
       'Fox Elite — абсолютный флагман линейки Lisa Gaming. Core i9-14900K и RTX 4090 без ограничений раскрывают 4K-гейминг, VR и тяжёлый 3D-рендер, а 64 ГБ DDR5 и платина 1000 Вт говорят о том, что система готова к любым апгрейдам. ROG Maximus Z790 и Corsair H150i ELITE подчёркивают премиальный характер сборки — для тех, кто не признаёт слова «недостаточно мощно».',
@@ -102,12 +88,8 @@ export const pcBuilds: PcBuildProduct[] = [
     category: 'pc-build',
     name: 'Fox Workstation',
     price: 219990,
-    image:
-      'https://images.unsplash.com/photo-1547084265-7f6bfe5f30a5?w=800&h=600&fit=crop',
-    images: [
-      'https://images.unsplash.com/photo-1547084265-7f6bfe5f30a5?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=600&fit=crop',
-    ],
+    image: '/pc-builds-choice.png',
+    images: [...pcBuildGallery],
     video: '/fox-workstation.mp4',
     description:
       'Fox Workstation — рабочая станция для создателей контента и профессионалов. Ryzen 9 7950X и RTX 4080 Super одинаково уверенно справляются с монтажом 4K, 3D-моделированием и рендером, а 64 ГБ памяти и гибридное хранилище 2 TB SSD + 4 TB HDD закрывают вопрос архивов и проектов. Тихое воздушное охлаждение Noctua NH-D15 делает систему комфортной для ежедневной работы.',
@@ -126,12 +108,8 @@ export const pcBuilds: PcBuildProduct[] = [
     category: 'pc-build',
     name: 'Fox Compact ITX',
     price: 154990,
-    image:
-      'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=600&fit=crop',
-    images: [
-      'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=600&fit=crop',
-      'https://images.unsplash.com/photo-1593640408182-3c5c2289ad3d?w=800&h=600&fit=crop',
-    ],
+    image: '/pc-builds-choice.png',
+    images: [...pcBuildGallery],
     video: '/fox-compact.mp4',
     description:
       'Fox Compact ITX доказывает, что мощный игровой ПК не обязан занимать полкомнаты. В компактном корпусе Mini-ITX спрятаны Core i7-14700F, RTX 4070 и 32 ГБ DDR5 — конфигурация, которая уверенно тянет современные игры и рабочие задачи. СЖО Lian Li Galahad II и SFX-блок питания 750 Вт сохраняют баланс производительности и аккуратного внешнего вида — идеально для небольшой комнаты или гостиной.',

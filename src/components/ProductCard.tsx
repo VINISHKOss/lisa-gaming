@@ -70,8 +70,12 @@ export function ProductCard({ product, onOpen }: ProductCardProps) {
     >
       <div
         className="relative aspect-[4/3] overflow-hidden bg-fox-dark"
-        onMouseEnter={handlePreviewEnter}
-        onMouseLeave={handlePreviewLeave}
+        onPointerEnter={(event) => {
+          if (event.pointerType === 'mouse') handlePreviewEnter()
+        }}
+        onPointerLeave={(event) => {
+          if (event.pointerType === 'mouse') handlePreviewLeave()
+        }}
       >
         <img
           src={product.image}
@@ -91,8 +95,8 @@ export function ProductCard({ product, onOpen }: ProductCardProps) {
             loop
             playsInline
             preload="metadata"
-            className={`absolute inset-0 h-full w-full object-cover transition-opacity duration-300 ${
-              isPreviewPlaying ? 'scale-105 opacity-100' : 'opacity-0'
+            className={`absolute inset-0 h-full w-full object-cover transition-all duration-500 ${
+              isPreviewPlaying ? 'scale-105 opacity-100' : 'scale-100 opacity-0'
             }`}
           />
         )}
