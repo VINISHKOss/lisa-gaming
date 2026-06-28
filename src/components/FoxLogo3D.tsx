@@ -35,74 +35,76 @@ export function FoxLogo3D({ className = '' }: FoxLogo3DProps) {
         aria-hidden
       />
 
-      <div className="fox-logo-mask relative z-10 h-full w-full drop-shadow-[0_20px_44px_rgba(0,0,0,0.92)] drop-shadow-[0_8px_20px_rgba(232,136,48,0.5)]">
+      <div className="relative z-10 h-full w-full drop-shadow-[0_20px_44px_rgba(0,0,0,0.92)] drop-shadow-[0_8px_20px_rgba(232,136,48,0.5)]">
         <div className="fox-logo-perspective relative h-full w-full">
-          <div className="relative h-full w-full animate-fox-spin-3d will-change-transform">
-            <div
-              className="pointer-events-none absolute inset-0 bg-gradient-to-br from-[#120604] via-[#050201] to-black"
-              style={{ transform: `translateZ(${backZ}px) scale(0.94)` }}
-              aria-hidden
-            />
-
-            {Array.from({ length: DEPTH_LAYERS }, (_, index) => (
+          <div className="fox-logo-spin-group relative h-full w-full will-change-transform">
+            <div className="fox-logo-depth">
               <div
-                key={index}
-                className={`pointer-events-none absolute inset-0 ${getDepthGradient(index)}`}
-                style={{
-                  transform: `translateZ(${-(index + 1) * DEPTH_STEP}px) scale(${1 - index * 0.006})`,
-                  opacity: 0.55 + index * 0.04,
-                }}
-                aria-hidden
-              />
-            ))}
-
-            <div
-              className="pointer-events-none absolute inset-[1.5%] bg-gradient-to-br from-white/85 via-[#ffd080]/35 to-transparent"
-              style={{ transform: `translateZ(${FRONT_Z - 6}px)` }}
-              aria-hidden
-            />
-
-            <div
-              className="absolute inset-0 [backface-visibility:hidden]"
-              style={{ transform: `translateZ(${FRONT_Z}px)` }}
-            >
-              <div
-                className="pointer-events-none absolute inset-0 bg-[linear-gradient(145deg,#fffef5_0%,#f5c842_20%,#c97a28_50%,#4a1c08_78%,#0a0402_100%)]"
+                className="fox-logo-mask pointer-events-none absolute inset-0 bg-gradient-to-br from-[#120604] via-[#050201] to-black"
+                style={{ transform: `translateZ(${backZ}px) scale(0.94)` }}
                 aria-hidden
               />
 
-              <img
-                src="/fox-logo-gradient.png"
-                alt="Lisa Gaming"
-                className="relative z-10 h-full w-full object-contain brightness-[1.15] contrast-[1.3] saturate-[1.15]"
-                draggable={false}
+              {Array.from({ length: DEPTH_LAYERS }, (_, index) => (
+                <div
+                  key={index}
+                  className={`fox-logo-mask pointer-events-none absolute inset-0 ${getDepthGradient(index)}`}
+                  style={{
+                    transform: `translateZ(${-(index + 1) * DEPTH_STEP}px) scale(${1 - index * 0.006})`,
+                    opacity: 0.55 + index * 0.04,
+                  }}
+                  aria-hidden
+                />
+              ))}
+
+              <div
+                className="fox-logo-mask pointer-events-none absolute inset-[1.5%] bg-gradient-to-br from-white/85 via-[#ffd080]/35 to-transparent"
+                style={{ transform: `translateZ(${FRONT_Z - 6}px)` }}
+                aria-hidden
               />
 
               <div
-                className="pointer-events-none absolute inset-0 z-20 opacity-40 bg-[repeating-linear-gradient(100deg,transparent_0px,transparent_3px,rgba(255,255,255,0.08)_3px,rgba(255,255,255,0.08)_4px)]"
-                aria-hidden
-              />
-              <div
-                className="pointer-events-none absolute inset-0 z-20 bg-gradient-to-br from-white/80 via-white/15 via-30% to-transparent to-50%"
-                aria-hidden
-              />
-              <div
-                className="pointer-events-none absolute inset-0 z-20 bg-gradient-to-tl from-black/70 via-black/20 via-35% to-transparent"
-                aria-hidden
-              />
-              <div
-                className="pointer-events-none absolute inset-0 z-20 mix-blend-overlay opacity-75 bg-gradient-to-br from-[#fff8dc] via-transparent to-[#4a1c08]"
-                aria-hidden
-              />
+                className="fox-logo-mask absolute inset-0 [backface-visibility:hidden]"
+                style={{ transform: `translateZ(${FRONT_Z}px)` }}
+              >
+                <div
+                  className="pointer-events-none absolute inset-0 bg-[linear-gradient(145deg,#fffef5_0%,#f5c842_20%,#c97a28_50%,#4a1c08_78%,#0a0402_100%)]"
+                  aria-hidden
+                />
 
-              <div className="pointer-events-none absolute inset-0 z-30 overflow-hidden" aria-hidden>
-                <div className="absolute -inset-[40%] bg-[linear-gradient(115deg,transparent_38%,rgba(255,255,255,0.95)_50%,transparent_62%)] opacity-0 mix-blend-screen animate-fox-metallic-glint" />
+                <img
+                  src="/fox-logo-gradient.png"
+                  alt="Lisa Gaming"
+                  className="relative z-10 h-full w-full object-contain brightness-[1.15] contrast-[1.3] saturate-[1.15]"
+                  draggable={false}
+                />
+
+                <div
+                  className="pointer-events-none absolute inset-0 z-20 opacity-40 bg-[repeating-linear-gradient(100deg,transparent_0px,transparent_3px,rgba(255,255,255,0.08)_3px,rgba(255,255,255,0.08)_4px)]"
+                  aria-hidden
+                />
+                <div
+                  className="pointer-events-none absolute inset-0 z-20 bg-gradient-to-br from-white/80 via-white/15 via-30% to-transparent to-50%"
+                  aria-hidden
+                />
+                <div
+                  className="pointer-events-none absolute inset-0 z-20 bg-gradient-to-tl from-black/70 via-black/20 via-35% to-transparent"
+                  aria-hidden
+                />
+                <div
+                  className="pointer-events-none absolute inset-0 z-20 mix-blend-overlay opacity-75 bg-gradient-to-br from-[#fff8dc] via-transparent to-[#4a1c08]"
+                  aria-hidden
+                />
+
+                <div className="pointer-events-none absolute inset-0 z-30 overflow-hidden" aria-hidden>
+                  <div className="absolute -inset-[40%] bg-[linear-gradient(115deg,transparent_38%,rgba(255,255,255,0.95)_50%,transparent_62%)] opacity-0 mix-blend-screen animate-fox-metallic-glint" />
+                </div>
+
+                <div
+                  className="pointer-events-none absolute inset-0 z-40 [filter:drop-shadow(0_2px_0_rgba(255,255,255,0.55))_drop-shadow(0_-3px_5px_rgba(0,0,0,0.65))]"
+                  aria-hidden
+                />
               </div>
-
-              <div
-                className="pointer-events-none absolute inset-0 z-40 [filter:drop-shadow(0_2px_0_rgba(255,255,255,0.55))_drop-shadow(0_-3px_5px_rgba(0,0,0,0.65))]"
-                aria-hidden
-              />
             </div>
           </div>
         </div>

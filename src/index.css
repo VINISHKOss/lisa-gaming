@@ -270,13 +270,22 @@
     animation-iteration-count: infinite;
   }
 
-  .animate-fox-spin-3d {
+  .fox-logo-spin-group {
     transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
     transform-origin: center center;
     animation-name: fox-spin-3d;
     animation-duration: 10.5s;
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
+  }
+
+  .fox-logo-depth {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
   }
 
   .fox-logo-perspective {
